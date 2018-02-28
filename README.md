@@ -1,0 +1,2 @@
+# Skola
+Blbosti pro školu
